@@ -19,3 +19,6 @@ Python/OpenCV embedded system trained to recognize 5 hand gestures using Haar ca
 - Raspberry Pi
 - Haar Cascade Classifiers
 - Servo Motor Control
+
+
+## see documentation section for initial requirements and poster
